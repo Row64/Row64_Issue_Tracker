@@ -8,6 +8,5 @@ For discussion, help, and feature requests, please go to:
 
 1) For free accounts:
     - Visit the [Row64 Forum](https://forum.row64.com/)
-<br>
 2) For paid accounts:
     - Contact support@row64.com
