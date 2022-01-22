@@ -9,7 +9,7 @@ assignees: ''
 
 **Row64 Version:**
 
-**Operating System:**
+**Operating System & Hardware:**
 
 **Description:**
 Please describe the bug in as much detail as possible, with steps to reproduce the problem.
